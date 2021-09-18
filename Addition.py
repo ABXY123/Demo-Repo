@@ -6,3 +6,12 @@ sum = num1 + num2
   
 # printing values
 print("Sum of {0} and {1} is {2}" .format(num1, num2, sum))
+
+num3 = 12
+num4 = 16
+  
+# Adding two nos
+sum = num3 + num4
+  
+# printing values
+print("Sum of {0} and {1} is {2}" .format(num3, num4, sum))
